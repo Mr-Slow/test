@@ -4,3 +4,5 @@ def shit():
     merged successful
     change on dev
     change on dev second
+    change on shit
+
